@@ -1,0 +1,6 @@
+ALGORTHM TO ADD TWO NUMBERS 
+1. START
+2. Addition of numbers 
+3. Perfpem the numbers 
+4. Display the result 
+5. Stop
