@@ -1,0 +1,6 @@
+/*Algorithm
+Step1 - Start
+Step2 - get nth term of fibo series from user
+Step3 - get fibonacci series but with each loop, add value to a variable
+Step4 - print value in variable
+Step5 - Stop.*/
